@@ -1,0 +1,2 @@
+rootProject.name = "KalkulatorBentuk"
+include ':app'

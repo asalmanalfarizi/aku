@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KalkulatorBentuk</string>
+    <string name="segitiga_title">Kalkulator Segitiga</string>
+    <string name="panjang_alas">Panjang Alas</string>
+    <string name="tinggi">TInggi</string>
+    <string name="button_hitung">Hitung</string>
+    <string name="hasil_str">Luas Segitiga Adalah</string>
+    <string name="error_title">Error!</string>
+    <string name="error_belum_lengkap">Masukkan Angka Dengan Benar</string>
+    <string name="trapesium_title">Kalkulator Trapesium</string>
+    <string name="jajargenjang_title">Kalkulator Jajargenjang</string>
+    <string name="button_kembali">Kembali</string>
+</resources>
